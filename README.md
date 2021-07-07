@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LFDM-85
+- 👋 Hi, I’m Luís Melo
 - 👀 I’m interested in Chemical Engineering & Web development
 - 🌱 I’m currently learning HTLM, CSS, JavaScript & React
 
