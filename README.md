@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luís Melo
 - 👀 I’m interested in Chemical Engineering & Web development
-- 🌱 I’m currently learning HTLM, CSS, JavaScript, React and NestJs
+- 🌱 FullStack and 10 year in industry
 
 <!---
 LFDM-85/LFDM-85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
