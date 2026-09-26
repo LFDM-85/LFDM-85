@@ -30,20 +30,20 @@ I run a **semi-professional homelab** as a practical environment for self-hostin
 
 ## Selected work
 
-**01 · [Observability Stack ↗](https://github.com/LFDM-85/observability-stack)**  
-An observability workspace bringing together Prometheus, Grafana, Loki, Alloy and Alertmanager.  
+**01 · [Observability Stack ↗](https://github.com/LFDM-85/observability-stack)**<br />
+An observability workspace bringing together Prometheus, Grafana, Loki, Alloy and Alertmanager.<br />
 <sub>METRICS / LOGS / ALERTING</sub>
 
-**02 · [DevOps Lab ↗](https://github.com/LFDM-85/devops-lab)**  
-A practical environment for Ansible automation, Docker services, Kubernetes experiments and CI/CD workflows.  
+**02 · [DevOps Lab ↗](https://github.com/LFDM-85/devops-lab)**<br />
+A practical environment for Ansible automation, Docker services, Kubernetes experiments and CI/CD workflows.<br />
 <sub>AUTOMATION / CONTAINERS / CI/CD</sub>
 
-**03 · [ELK Stack ↗](https://github.com/LFDM-85/ELK)**  
-A workspace for Elasticsearch, Logstash and Kibana: collecting, searching and exploring logs.  
+**03 · [ELK Stack ↗](https://github.com/LFDM-85/ELK)**<br />
+A workspace for Elasticsearch, Logstash and Kibana: collecting, searching and exploring logs.<br />
 <sub>LOG PIPELINES / SEARCH / VISIBILITY</sub>
 
-**04 · [Omarchy Sync Mesh ↗](https://github.com/LFDM-85/omarchy-sync-mesh)**  
-A Linux desktop synchronisation project, extending my systems interest beyond the server.  
+**04 · [Omarchy Sync Mesh ↗](https://github.com/LFDM-85/omarchy-sync-mesh)**<br />
+A Linux desktop synchronisation project, extending my systems interest beyond the server.<br />
 <sub>LINUX / OMARCHY / SYNCHRONISATION</sub>
 
 ## My semi-professional homelab
