@@ -1,79 +1,82 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Building%20Reliable%20Infrastructures&fontSize=40&animation=fadeIn&fontAlignY=35&desc=SysAdmin%20%7C%20DevOps%20Enthusiast%20%7C%20HomeLabber&descAlignY=55&descAlign=50" alt="Header" />
-</div>
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Luis Melo — Systems, automation and cloud native. Building infrastructure that lasts." />
+</p>
 
-<div align="center">
-  
-  ### Hi there! 👋 I'm Luis Melo
-  
-  **SysAdmin transitioning to DevOps Engineer** based in Portugal.
-  
-  I turn coffee into configuration and automate the boring stuff. Passionate about self-hosting, Linux ecosystems, and building resilient systems. Currently managing a hybrid environment while mastering Cloud Native technologies.
-  
-  <a href="https://www.linkedin.com/in/luisfdmelo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://[teu-blog-se-tiveres]">
-    <img src="https://img.shields.io/badge/Personal_Blog-2bbc8a?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog"/>
-  </a>
+<p align="center">
+  <strong>SysAdmin → DevOps Engineer · Portugal</strong><br />
+  Linux at the foundation. Automation in the workflow. Observability throughout.
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/luisfdmelo/">LinkedIn ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/LFDM-85?tab=repositories">Explore my repositories ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/LFDM-85?tab=overview">GitHub activity ↗</a>
+</p>
 
----
+<br />
 
-### 🛠️ Technical Stack & Tools
+## A hands-on approach to infrastructure
 
-My daily drivers and the technologies I manage in my HomeLab/Production environments:
+I’m Luis, a systems administrator moving into DevOps. I work with hybrid environments, self-hosted services and Linux ecosystems, with a focus on resilient systems and repeatable automation.
 
-**Infrastructure & Virtualization**
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white" />
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+My homelab is where I learn by doing: deploying services, connecting the tools and understanding what happens when things break.
 
-**Networking & Security**
-<br>
-<img src="https://img.shields.io/badge/Traefik_Proxy-24a1c1?style=flat-square&logo=traefik&logoColor=white" />
-<img src="https://img.shields.io/badge/Keycloak-X-add8e6?style=flat-square&logo=keycloak&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenSSL-000?style=flat-square&logo=openssl&logoColor=white" />
+<br />
 
-**Automation & Scripting**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+## Selected work
 
-**Observability & Data**
-<br>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LFDM-85/observability-stack">01 / Observability Stack ↗</a></h3>
+      <p>Metrics, logs, traces and alerting for Proxmox environments, brought together in a Docker-based stack.</p>
+      <p><sub>Prometheus · Grafana · Loki · Alloy · Alertmanager</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LFDM-85/devops-lab">02 / DevOps Lab ↗</a></h3>
+      <p>A practical environment for experimenting with infrastructure automation, container orchestration and CI/CD.</p>
+      <p><sub>Ansible · Docker · Kubernetes · Jenkins</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LFDM-85/ELK">03 / ELK Stack ↗</a></h3>
+      <p>A dedicated workspace for the Elastic stack: collecting, searching and exploring logs.</p>
+      <p><sub>Elasticsearch · Logstash · Kibana</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LFDM-85/omarchy-sync-mesh">04 / Omarchy Sync Mesh ↗</a></h3>
+      <p>A sync mesh project for Omarchy, extending my interest in Linux beyond the server.</p>
+      <p><sub>Linux · Omarchy · Synchronisation</sub></p>
+    </td>
+  </tr>
+</table>
 
----
+<br />
 
-### 🚀 Current Focus & Learning Journey
+## The toolkit
 
-I follow a "Learn by Doing" philosophy. Here is what I am currently tackling:
+| Layer | Technologies |
+| :--- | :--- |
+| **Infrastructure** | Linux · Proxmox VE · Debian · Docker · Kubernetes |
+| **Networking & security** | Traefik · Keycloak · OpenSSL |
+| **Automation** | Python · Bash · Ansible · n8n |
+| **Observability & data** | Grafana · Prometheus · Elasticsearch · Kibana · MariaDB |
 
-- 🔭 **Working on:** Migrating legacy Docker Swarm stacks to Kubernetes (k3s) clusters.
-- 🌱 **Learning:** Advanced AWS Networking & Terraform State management.
-- 🎯 **Goal:** Certified Kubernetes Administrator (CKA) & AWS Solutions Architect.
-- 💬 **Ask me about:** Why I prefer Proxmox over ESXi or how to troubleshoot Traefik middlewares.
+<br />
 
----
+## What I’m building towards
 
-### 📊 GitHub Stats
+- **Container orchestration** — migrating Docker Swarm stacks to Kubernetes with k3s.
+- **Cloud & infrastructure as code** — deepening my knowledge of AWS networking and Terraform state management.
+- **Certification goals** — Certified Kubernetes Administrator and AWS Solutions Architect.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LFDM-85&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFDM-85&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
-</div>
+Interested in Proxmox, self-hosting or troubleshooting Traefik middleware? [Let’s connect on LinkedIn.](https://www.linkedin.com/in/luisfdmelo/)
 
-<div align="center">
-  <sub><em>"Talk is cheap. Show me the code." — Linus Torvalds</em></sub>
-</div>
+<br />
+
+<p align="center">
+  <img src="./assets/profile-footer.svg" width="100%" alt="Build. Observe. Improve. Repeat." />
+</p>

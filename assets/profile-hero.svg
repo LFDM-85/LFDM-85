@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none">
+  <title>Luis Melo — Systems, automation and cloud native</title>
+  <desc>A dark architectural canvas with mint typography and interconnected infrastructure nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1726"/><stop offset="1" stop-color="#122F3B"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#5EEAD4" stop-opacity=".13"/><stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#91C9D0" stroke-opacity=".055"/></pattern>
+    <linearGradient id="line" x1="56" y1="0" x2="1144" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+  <ellipse cx="972" cy="203" rx="270" ry="240" fill="url(#halo)"/>
+  <rect x=".5" y=".5" width="1199" height="419" rx="23.5" stroke="#314E59"/>
+  <path d="M56 58H91" stroke="#5EEAD4" stroke-width="3"/>
+  <text x="106" y="64" fill="#A5BDC7" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" letter-spacing="3">LFDM-85 / ENGINEERING JOURNEY</text>
+  <text x="53" y="167" fill="#EDF6F8" font-family="DejaVu Sans,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Luis Melo<tspan fill="#5EEAD4">.</tspan></text>
+  <text x="57" y="220" fill="#C0D4DC" font-family="DejaVu Sans,Arial,sans-serif" font-size="24">Building infrastructure that lasts.</text>
+  <text x="57" y="272" fill="#7E9DAE" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" letter-spacing="1">SYSTEMS / AUTOMATION / CLOUD NATIVE</text>
+  <path d="M56 323H1144" stroke="url(#line)"/>
+  <text x="57" y="367" fill="#A5BDC7" font-family="DejaVu Sans Mono,monospace" font-size="14">$ learn --by-doing</text>
+  <text x="1143" y="367" fill="#7E9DAE" text-anchor="end" font-family="DejaVu Sans Mono,monospace" font-size="13">PORTUGAL / HOMELAB → CLOUD</text>
+  <g stroke="#5EEAD4" stroke-opacity=".42" stroke-width="1.5">
+    <path d="M832 140L946 100L1060 140L946 180Z"/>
+    <path d="M832 140V215L946 255L1060 215V140M946 180V255"/>
+    <path d="M832 177L946 217L1060 177" stroke-dasharray="4 6"/>
+    <path d="M832 215L771 253M1060 215L1121 253M946 100V62"/>
+  </g>
+  <g fill="#102E39" stroke="#4C8A91">
+    <rect x="722" y="242" width="100" height="48" rx="10"/>
+    <rect x="1072" y="242" width="100" height="48" rx="10"/>
+    <rect x="896" y="39" width="100" height="40" rx="10"/>
+  </g>
+  <g fill="#B8D8DF" font-family="DejaVu Sans Mono,monospace" font-size="12" text-anchor="middle">
+    <text x="772" y="271">DEPLOY</text><text x="1122" y="271">OBSERVE</text><text x="946" y="64">AUTOMATE</text>
+  </g>
+  <g fill="#5EEAD4"><circle cx="832" cy="140" r="4"/><circle cx="1060" cy="140" r="4"/><circle cx="946" cy="255" r="4"/></g>
+  <path d="M916 144L937 152L974 131" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
