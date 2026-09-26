@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" fill="none">
-  <title>Build. Observe. Improve. Repeat.</title>
-  <rect width="1200" height="96" rx="16" fill="#0D202D"/>
-  <rect x=".5" y=".5" width="1199" height="95" rx="15.5" stroke="#314E59"/>
-  <path d="M42 48H95M1105 48H1158" stroke="#5EEAD4" stroke-opacity=".6"/>
-  <text x="600" y="56" text-anchor="middle" fill="#B9D4DB" font-family="DejaVu Sans Mono,monospace" font-size="21" letter-spacing="2">BUILD<tspan fill="#5EEAD4">.</tspan> OBSERVE<tspan fill="#5EEAD4">.</tspan> IMPROVE<tspan fill="#5EEAD4">.</tspan> REPEAT<tspan fill="#5EEAD4">.</tspan></text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96"><title>Secure. Automate. Observe. Improve.</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091321"/><stop offset="1" stop-color="#142D3D"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#6E94B1" stroke-opacity=".08"/></pattern></defs><rect width="1200" height="96" rx="20" fill="url(#bg)"/><rect width="1200" height="96" rx="20" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="94" rx="19" fill="none" stroke="#2B4358"/><text x="182" y="57" fill="#5EEAD4" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="1.5">SECURE.  AUTOMATE.  OBSERVE.  IMPROVE.</text></svg>

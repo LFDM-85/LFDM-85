@@ -1,82 +1,81 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Luis Melo — Systems, automation and cloud native. Building infrastructure that lasts." />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Luis Melo — Linux systems, DevOps, AI and AIOps. Secure. Automate. Observe." />
 </p>
 
 <p align="center">
-  <strong>SysAdmin → DevOps Engineer · Portugal</strong><br />
-  Linux at the foundation. Automation in the workflow. Observability throughout.
+  <strong>Systems Administrator → DevOps · Exploring AI &amp; AIOps · Portugal</strong><br />
+  Linux foundations. Container platforms. Security-minded operations.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luisfdmelo/">LinkedIn ↗</a>
+  <a href="https://www.linkedin.com/in/luisfdmelo/">Connect on LinkedIn ↗</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/LFDM-85?tab=repositories">Explore my repositories ↗</a>
+  <a href="https://github.com/LFDM-85?tab=repositories">Explore my work ↗</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/LFDM-85?tab=overview">GitHub activity ↗</a>
+  <a href="#my-semi-professional-homelab">Inside the homelab ↓</a>
 </p>
 
-<br />
+## Systems thinking. Hands-on building.
 
-## A hands-on approach to infrastructure
+I’m Luis, a systems administrator developing my DevOps practice through Linux, automation and container-based infrastructure. I like understanding the whole system: how services are deployed, how they communicate, how they are secured and how to diagnose them when something fails.
 
-I’m Luis, a systems administrator moving into DevOps. I work with hybrid environments, self-hosted services and Linux ecosystems, with a focus on resilient systems and repeatable automation.
+I run a **semi-professional homelab** as a practical environment for self-hosting, infrastructure experiments and operational learning. I’m also exploring **AI-assisted operations and AIOps**: bringing automation and operational context together, with verification and human oversight.
 
-My homelab is where I learn by doing: deploying services, connecting the tools and understanding what happens when things break.
-
-<br />
+| Focus | What I’m working on |
+| :--- | :--- |
+| **Linux & systems** | Systems administration, troubleshooting, virtualisation and self-hosted services. |
+| **DevOps & containers** | Repeatable workflows, Docker, automation and container orchestration. |
+| **Security & reliability** | Access control, network protection, backups and service monitoring. |
+| **AI & AIOps** | Exploring AI-assisted troubleshooting, operational knowledge and automation. |
 
 ## Selected work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/LFDM-85/observability-stack">01 / Observability Stack ↗</a></h3>
-      <p>Metrics, logs, traces and alerting for Proxmox environments, brought together in a Docker-based stack.</p>
-      <p><sub>Prometheus · Grafana · Loki · Alloy · Alertmanager</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/LFDM-85/devops-lab">02 / DevOps Lab ↗</a></h3>
-      <p>A practical environment for experimenting with infrastructure automation, container orchestration and CI/CD.</p>
-      <p><sub>Ansible · Docker · Kubernetes · Jenkins</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/LFDM-85/ELK">03 / ELK Stack ↗</a></h3>
-      <p>A dedicated workspace for the Elastic stack: collecting, searching and exploring logs.</p>
-      <p><sub>Elasticsearch · Logstash · Kibana</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/LFDM-85/omarchy-sync-mesh">04 / Omarchy Sync Mesh ↗</a></h3>
-      <p>A sync mesh project for Omarchy, extending my interest in Linux beyond the server.</p>
-      <p><sub>Linux · Omarchy · Synchronisation</sub></p>
-    </td>
-  </tr>
-</table>
+**01 · [Observability Stack ↗](https://github.com/LFDM-85/observability-stack)**  
+An observability workspace bringing together Prometheus, Grafana, Loki, Alloy and Alertmanager.  
+<sub>METRICS / LOGS / ALERTING</sub>
 
-<br />
+**02 · [DevOps Lab ↗](https://github.com/LFDM-85/devops-lab)**  
+A practical environment for Ansible automation, Docker services, Kubernetes experiments and CI/CD workflows.  
+<sub>AUTOMATION / CONTAINERS / CI/CD</sub>
 
-## The toolkit
+**03 · [ELK Stack ↗](https://github.com/LFDM-85/ELK)**  
+A workspace for Elasticsearch, Logstash and Kibana: collecting, searching and exploring logs.  
+<sub>LOG PIPELINES / SEARCH / VISIBILITY</sub>
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Infrastructure** | Linux · Proxmox VE · Debian · Docker · Kubernetes |
-| **Networking & security** | Traefik · Keycloak · OpenSSL |
-| **Automation** | Python · Bash · Ansible · n8n |
-| **Observability & data** | Grafana · Prometheus · Elasticsearch · Kibana · MariaDB |
+**04 · [Omarchy Sync Mesh ↗](https://github.com/LFDM-85/omarchy-sync-mesh)**  
+A Linux desktop synchronisation project, extending my systems interest beyond the server.  
+<sub>LINUX / OMARCHY / SYNCHRONISATION</sub>
 
-<br />
-
-## What I’m building towards
-
-- **Container orchestration** — migrating Docker Swarm stacks to Kubernetes with k3s.
-- **Cloud & infrastructure as code** — deepening my knowledge of AWS networking and Terraform state management.
-- **Certification goals** — Certified Kubernetes Administrator and AWS Solutions Architect.
-
-Interested in Proxmox, self-hosting or troubleshooting Traefik middleware? [Let’s connect on LinkedIn.](https://www.linkedin.com/in/luisfdmelo/)
-
-<br />
+## My semi-professional homelab
 
 <p align="center">
-  <img src="./assets/profile-footer.svg" width="100%" alt="Build. Observe. Improve. Repeat." />
+  <img src="./assets/homelab-map.svg" width="100%" alt="Homelab practice areas: Proxmox virtualisation, Linux and Docker services, security practices, monitoring and backups; Kubernetes, OpenShift and AIOps are learning directions." />
+</p>
+
+My lab brings together **Proxmox VE, Linux virtual machines and Docker-based services**, with a focus on **security, reliability, backups and monitoring**. It is where I practise the full lifecycle: deploy, secure, observe, troubleshoot and improve.
+
+The diagram shows areas of practice rather than a live network topology. **Kubernetes and OpenShift are learning directions**, not a claim that either currently runs in the homelab.
+
+## Technology landscape
+
+| Area | Tools & platforms |
+| :--- | :--- |
+| **Systems & virtualisation** | Linux · Debian · Proxmox VE |
+| **Containers** | Docker · Compose · Kubernetes (developing practice) |
+| **Automation** | Bash · Python · Ansible |
+| **Networking & security** | Network security · Access control · OpenSSL |
+| **Observability** | Prometheus · Grafana · Loki · Alloy · Alertmanager · Elastic Stack |
+| **Exploration** | AI-assisted operations · AIOps · OpenShift |
+
+## Next chapter
+
+- **DevOps:** turn lab experiments into reproducible, documented workflows.
+- **Cloud native:** deepen Kubernetes practice and explore OpenShift.
+- **AIOps:** explore how AI can help interpret operational context and support troubleshooting.
+- **Security:** keep improving access control, recovery procedures and visibility.
+
+Working on Linux, Proxmox, containers or AI-assisted operations? [Let’s connect.](https://www.linkedin.com/in/luisfdmelo/)
+
+<p align="center">
+  <img src="./assets/profile-footer.svg" width="100%" alt="Secure. Automate. Observe. Improve." />
 </p>
